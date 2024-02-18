@@ -3,3 +3,4 @@
 .idea
 .env
 src/__pycache__/
+src/queries/__pycache__
